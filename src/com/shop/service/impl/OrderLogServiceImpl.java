@@ -1,0 +1,25 @@
+package com.shop.service.impl;
+
+import javax.annotation.Resource;
+
+import com.shop.dao.OrderLogDao;
+import com.shop.entity.OrderLog;
+import com.shop.service.OrderLogService;
+
+import org.springframework.stereotype.Service;
+
+/**
+ * Service - 订单日志
+ * 
+ * @author lihua
+ * @version 1.0
+ */
+@Service("orderLogServiceImpl")
+public class OrderLogServiceImpl extends BaseServiceImpl<OrderLog, Long> implements OrderLogService {
+
+	@Resource(name = "orderLogDaoImpl")
+	public void setBaseDao(OrderLogDao orderLogDao) {
+		super.setBaseDao(orderLogDao);
+	}
+
+}
