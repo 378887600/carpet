@@ -11,7 +11,7 @@ import org.springframework.stereotype.Repository;
 /**
  * Dao - 收款单
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("paymentDaoImpl")

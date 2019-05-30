@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 /**
  * Job - 购物车
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("cartJob")

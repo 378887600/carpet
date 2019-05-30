@@ -16,7 +16,7 @@ import org.springframework.util.Assert;
 /**
  * Dao - 文章分类
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("articleCategoryDaoImpl")

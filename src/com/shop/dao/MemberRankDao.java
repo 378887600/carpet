@@ -7,7 +7,7 @@ import com.shop.entity.MemberRank;
 /**
  * Dao - 会员等级
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface MemberRankDao extends BaseDao<MemberRank, Long> {

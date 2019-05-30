@@ -17,7 +17,7 @@ import org.springframework.stereotype.Repository;
 /**
  * Dao - 预存款
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("depositDaoImpl")

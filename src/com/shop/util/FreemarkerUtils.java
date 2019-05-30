@@ -30,7 +30,7 @@ import freemarker.template.utility.DeepUnwrap;
 /**
  * Utils - Freemarker
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @SuppressWarnings("unchecked")

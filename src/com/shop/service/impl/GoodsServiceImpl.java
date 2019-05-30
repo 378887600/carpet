@@ -23,7 +23,7 @@ import org.springframework.util.Assert;
 /**
  * Service - 货品
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("goodsServiceImpl")

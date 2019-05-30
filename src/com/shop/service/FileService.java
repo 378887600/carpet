@@ -11,7 +11,7 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * Service - 文件
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface FileService {

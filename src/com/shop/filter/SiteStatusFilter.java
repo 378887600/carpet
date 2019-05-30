@@ -17,7 +17,7 @@ import org.springframework.web.filter.OncePerRequestFilter;
 /**
  * Filter - 网站状态
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("siteStatusFilter")

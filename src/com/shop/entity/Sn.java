@@ -8,7 +8,7 @@ import javax.persistence.Table;
 /**
  * Entity - 序列号
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Entity

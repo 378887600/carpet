@@ -22,7 +22,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 /**
  * Controller - 财付通(即时交易)
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("adminTenpayDirectController")

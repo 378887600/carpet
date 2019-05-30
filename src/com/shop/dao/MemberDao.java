@@ -8,7 +8,7 @@ import com.shop.entity.Member;
 /**
  * Dao - 会员
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface MemberDao extends BaseDao<Member, Long> {

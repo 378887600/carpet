@@ -22,7 +22,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 /**
  * Controller - 支付宝(担保交易)
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("adminAlipayPartnerController")

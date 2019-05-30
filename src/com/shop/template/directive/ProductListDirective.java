@@ -39,7 +39,7 @@ import freemarker.template.TemplateModel;
 /**
  * 模板指令 - 商品列表
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("productListDirective")

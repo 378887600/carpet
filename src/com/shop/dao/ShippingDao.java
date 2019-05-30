@@ -5,7 +5,7 @@ import com.shop.entity.Shipping;
 /**
  * Dao - 发货单
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface ShippingDao extends BaseDao<Shipping, Long> {

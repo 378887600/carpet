@@ -5,7 +5,7 @@ import org.apache.commons.beanutils.converters.AbstractConverter;
 /**
  * 枚举类型转换
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public class EnumConverter extends AbstractConverter {

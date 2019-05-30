@@ -15,7 +15,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * Service - 会员等级
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("memberRankServiceImpl")

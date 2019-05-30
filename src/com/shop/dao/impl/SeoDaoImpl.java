@@ -12,7 +12,7 @@ import org.springframework.stereotype.Repository;
 /**
  * Dao - SEO设置
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("seoDaoImpl")

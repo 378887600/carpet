@@ -14,7 +14,7 @@ import com.shop.entity.Review.Type;
 /**
  * Dao - 评论
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface ReviewDao extends BaseDao<Review, Long> {

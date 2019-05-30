@@ -8,7 +8,7 @@ import org.apache.commons.lang.builder.HashCodeBuilder;
 /**
  * 排序
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public class Order implements Serializable {

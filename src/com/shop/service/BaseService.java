@@ -11,7 +11,7 @@ import com.shop.Pageable;
 /**
  * Service - 基类
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface BaseService<T, ID extends Serializable> {

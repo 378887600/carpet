@@ -12,7 +12,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * Service - 序列号
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("snServiceImpl")

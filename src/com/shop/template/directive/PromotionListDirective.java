@@ -22,7 +22,7 @@ import freemarker.template.TemplateModel;
 /**
  * 模板指令 - 促销列表
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("promotionListDirective")

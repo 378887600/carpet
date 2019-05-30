@@ -23,7 +23,7 @@ import org.springframework.stereotype.Component;
 /**
  * Plugin - 银联在线支付
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("unionpayPlugin")

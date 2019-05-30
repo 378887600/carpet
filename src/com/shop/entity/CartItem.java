@@ -18,7 +18,7 @@ import com.shop.util.SettingUtils;
 /**
  * Entity - 购物车项
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Entity

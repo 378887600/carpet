@@ -8,7 +8,7 @@ import com.shop.entity.Message;
 /**
  * Dao - 消息
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface MessageDao extends BaseDao<Message, Long> {

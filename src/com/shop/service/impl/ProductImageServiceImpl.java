@@ -28,7 +28,7 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * Service - 商品图片
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("productImageServiceImpl")

@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * 日志配置
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public class LogConfig implements Serializable {

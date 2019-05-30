@@ -16,7 +16,7 @@ import org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer;
 /**
  * Controller - 模板
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("adminTemplateController")

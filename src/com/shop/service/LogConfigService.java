@@ -7,7 +7,7 @@ import com.shop.LogConfig;
 /**
  * Service - 日志配置
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface LogConfigService {

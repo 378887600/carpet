@@ -13,7 +13,7 @@ import com.shop.Pageable;
 /**
  * Dao - 基类
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface BaseDao<T, ID extends Serializable> {

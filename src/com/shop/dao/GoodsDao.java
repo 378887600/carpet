@@ -5,7 +5,7 @@ import com.shop.entity.Goods;
 /**
  * Dao - 货品
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface GoodsDao extends BaseDao<Goods, Long> {

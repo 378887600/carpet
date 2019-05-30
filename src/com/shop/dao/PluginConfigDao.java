@@ -5,7 +5,7 @@ import com.shop.entity.PluginConfig;
 /**
  * Dao - 插件配置
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface PluginConfigDao extends BaseDao<PluginConfig, Long> {

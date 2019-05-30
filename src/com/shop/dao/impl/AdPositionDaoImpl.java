@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 /**
  * Dao - 广告位
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("adPositionDaoImpl")

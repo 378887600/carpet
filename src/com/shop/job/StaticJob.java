@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 /**
  * Job - 静态化
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("staticJob")

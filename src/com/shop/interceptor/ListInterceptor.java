@@ -12,7 +12,7 @@ import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 /**
  * Interceptor - 列表查询
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public class ListInterceptor extends HandlerInterceptorAdapter {

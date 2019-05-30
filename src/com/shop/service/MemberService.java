@@ -10,7 +10,7 @@ import com.shop.entity.Member;
 /**
  * Service - 会员
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface MemberService extends BaseService<Member, Long> {

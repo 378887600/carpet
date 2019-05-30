@@ -5,7 +5,7 @@ import com.shop.entity.OrderItem;
 /**
  * Dao - 订单项
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface OrderItemDao extends BaseDao<OrderItem, Long> {

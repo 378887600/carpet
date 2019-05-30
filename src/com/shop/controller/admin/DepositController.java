@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 /**
  * Controller - 预存款
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("adminDepositController")

@@ -18,7 +18,7 @@ import freemarker.template.TemplateModel;
 /**
  * 模板指令 - 瞬时消息
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("flashMessageDirective")

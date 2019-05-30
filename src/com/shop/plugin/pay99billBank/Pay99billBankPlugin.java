@@ -19,7 +19,7 @@ import org.springframework.stereotype.Component;
 /**
  * Plugin - 快钱支付(网银直连)
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("pay99billBankPlugin")

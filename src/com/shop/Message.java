@@ -5,7 +5,7 @@ import com.shop.util.SpringUtils;
 /**
  * 消息
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public class Message {

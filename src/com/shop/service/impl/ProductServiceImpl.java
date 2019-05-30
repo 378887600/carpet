@@ -40,7 +40,7 @@ import org.springframework.util.Assert;
 /**
  * Service - 商品
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("productServiceImpl")

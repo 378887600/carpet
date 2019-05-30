@@ -10,7 +10,7 @@ import com.shop.entity.Navigation.Position;
 /**
  * Service - 导航
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface NavigationService extends BaseService<Navigation, Long> {

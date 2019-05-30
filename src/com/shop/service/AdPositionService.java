@@ -5,7 +5,7 @@ import com.shop.entity.AdPosition;
 /**
  * Service - 广告位
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface AdPositionService extends BaseService<AdPosition, Long> {

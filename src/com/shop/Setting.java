@@ -16,7 +16,7 @@ import org.hibernate.validator.constraints.NotEmpty;
 /**
  * 系统设置
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public class Setting implements Serializable {

@@ -23,7 +23,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 /**
  * Controller - Paypal
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("adminPaypalController")

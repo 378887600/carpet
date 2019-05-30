@@ -17,7 +17,7 @@ import freemarker.template.TemplateModel;
 /**
  * 模板指令 - 执行时间
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("executeTimeDirective")

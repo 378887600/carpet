@@ -22,7 +22,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 /**
  * Entity - 属性
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Entity

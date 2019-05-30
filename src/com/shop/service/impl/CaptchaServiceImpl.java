@@ -16,7 +16,7 @@ import org.springframework.stereotype.Service;
 /**
  * Service - 验证码
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("captchaServiceImpl")

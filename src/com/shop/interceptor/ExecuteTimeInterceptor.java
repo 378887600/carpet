@@ -12,7 +12,7 @@ import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 /**
  * Interceptor - 执行时间
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public class ExecuteTimeInterceptor extends HandlerInterceptorAdapter {

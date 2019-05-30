@@ -5,7 +5,7 @@ import com.shop.entity.SpecificationValue;
 /**
  * Service - 规格值
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface SpecificationValueService extends BaseService<SpecificationValue, Long> {

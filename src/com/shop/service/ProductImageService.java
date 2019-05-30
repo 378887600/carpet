@@ -5,7 +5,7 @@ import com.shop.entity.ProductImage;
 /**
  * Service - 商品图片
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface ProductImageService {

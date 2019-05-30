@@ -30,7 +30,7 @@ import org.springframework.core.io.ClassPathResource;
 /**
  * Utils - 系统设置
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @SuppressWarnings("unchecked")

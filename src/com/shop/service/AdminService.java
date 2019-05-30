@@ -7,7 +7,7 @@ import com.shop.entity.Admin;
 /**
  * Service - 管理员
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface AdminService extends BaseService<Admin, Long> {

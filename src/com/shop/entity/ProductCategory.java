@@ -26,7 +26,7 @@ import org.hibernate.validator.constraints.NotEmpty;
 /**
  * Entity - 商品分类
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Entity

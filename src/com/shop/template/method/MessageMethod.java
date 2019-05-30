@@ -14,7 +14,7 @@ import freemarker.template.TemplateModelException;
 /**
  * 模板方法 - 多语言
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("messageMethod")

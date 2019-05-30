@@ -10,7 +10,7 @@ import com.shop.entity.BaseEntity;
 /**
  * Listener - 创建日期、修改日期处理
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public class EntityListener {

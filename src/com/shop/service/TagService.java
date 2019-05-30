@@ -10,7 +10,7 @@ import com.shop.entity.Tag.Type;
 /**
  * Service - 标签
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface TagService extends BaseService<Tag, Long> {

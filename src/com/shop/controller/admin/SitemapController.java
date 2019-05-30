@@ -15,7 +15,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 /**
  * Controller - Sitemap
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("adminSitemapController")

@@ -29,7 +29,7 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 /**
  * Service - 会员
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("memberServiceImpl")

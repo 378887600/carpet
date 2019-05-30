@@ -9,7 +9,7 @@ import com.shop.entity.ProductNotify;
 /**
  * Dao - 到货通知
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface ProductNotifyDao extends BaseDao<ProductNotify, Long> {

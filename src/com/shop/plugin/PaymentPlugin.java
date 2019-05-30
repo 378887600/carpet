@@ -41,7 +41,7 @@ import org.springframework.util.Assert;
 /**
  * Plugin - 支付
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public abstract class PaymentPlugin implements Comparable<PaymentPlugin> {

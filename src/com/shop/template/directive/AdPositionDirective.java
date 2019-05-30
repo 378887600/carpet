@@ -23,7 +23,7 @@ import freemarker.template.TemplateModel;
 /**
  * 模板指令 - 广告位
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("adPositionDirective")

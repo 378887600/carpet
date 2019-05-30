@@ -14,7 +14,7 @@ import javax.persistence.Transient;
 /**
  * Entity - 货品
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Entity

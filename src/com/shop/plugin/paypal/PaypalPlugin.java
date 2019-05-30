@@ -17,7 +17,7 @@ import org.springframework.stereotype.Component;
 /**
  * Plugin - Paypal
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("paypalPlugin")

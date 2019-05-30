@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 /**
  * Controller - 友情链接
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("shopFriendLinkController")

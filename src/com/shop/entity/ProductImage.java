@@ -15,7 +15,7 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * Entity - 商品图片
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Embeddable

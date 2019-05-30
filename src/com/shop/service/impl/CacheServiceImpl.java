@@ -17,7 +17,7 @@ import freemarker.template.TemplateModelException;
 /**
  * Service - 缓存
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("cacheServiceImpl")

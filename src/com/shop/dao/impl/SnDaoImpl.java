@@ -22,7 +22,7 @@ import freemarker.template.TemplateException;
 /**
  * Dao - 序列号
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("snDaoImpl")

@@ -7,7 +7,7 @@ import com.shop.entity.MemberAttribute;
 /**
  * Service - 会员注册项
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface MemberAttributeService extends BaseService<MemberAttribute, Long> {

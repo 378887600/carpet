@@ -13,7 +13,7 @@ import com.shop.entity.Product;
 /**
  * Dao - 咨询
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface ConsultationDao extends BaseDao<Consultation, Long> {

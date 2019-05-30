@@ -19,7 +19,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 /**
  * Entity - 收货地址
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Entity

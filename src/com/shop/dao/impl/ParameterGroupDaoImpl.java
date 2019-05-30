@@ -21,7 +21,7 @@ import org.springframework.util.Assert;
 /**
  * Dao - 参数组
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("parameterGroupDaoImpl")

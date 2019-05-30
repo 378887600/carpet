@@ -23,7 +23,7 @@ import org.hibernate.validator.constraints.NotEmpty;
 /**
  * Entity - 规格
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Entity

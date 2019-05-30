@@ -7,7 +7,7 @@ import com.shop.entity.Area;
 /**
  * Dao - 地区
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface AreaDao extends BaseDao<Area, Long> {

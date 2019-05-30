@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 /**
  * Dao - 配送方式
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("shippingMethodDaoImpl")

@@ -5,7 +5,7 @@ import com.shop.entity.Admin;
 /**
  * Dao - 管理员
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface AdminDao extends BaseDao<Admin, Long> {

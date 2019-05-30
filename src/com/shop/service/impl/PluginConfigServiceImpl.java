@@ -12,7 +12,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * Service - 插件配置
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("pluginConfigServiceImpl")

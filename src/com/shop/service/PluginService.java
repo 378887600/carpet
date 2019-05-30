@@ -8,7 +8,7 @@ import com.shop.plugin.StoragePlugin;
 /**
  * Service - 插件
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface PluginService {

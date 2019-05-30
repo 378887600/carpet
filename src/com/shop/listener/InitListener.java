@@ -15,7 +15,7 @@ import org.springframework.web.context.ServletContextAware;
 /**
  * Listener - 初始化
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("initListener")

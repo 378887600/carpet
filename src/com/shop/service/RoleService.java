@@ -5,7 +5,7 @@ import com.shop.entity.Role;
 /**
  * Service - 角色
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface RoleService extends BaseService<Role, Long> {

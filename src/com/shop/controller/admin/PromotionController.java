@@ -38,7 +38,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 /**
  * Controller - 促销
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("adminPromotionController")

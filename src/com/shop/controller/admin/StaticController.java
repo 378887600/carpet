@@ -28,7 +28,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 /**
  * Controller - 静态化
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("adminStaticController")

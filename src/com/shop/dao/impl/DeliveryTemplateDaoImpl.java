@@ -12,7 +12,7 @@ import org.springframework.util.Assert;
 /**
  * Dao - 快递单模板
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("deliveryTemplateDaoImpl")

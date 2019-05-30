@@ -26,7 +26,7 @@ import com.shop.entity.ShippingMethod;
 /**
  * Service - 订单
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface OrderService extends BaseService<Order, Long> {

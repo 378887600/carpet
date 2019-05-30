@@ -7,7 +7,7 @@ import com.shop.entity.MemberRank;
 /**
  * Service - 会员等级
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface MemberRankService extends BaseService<MemberRank, Long> {

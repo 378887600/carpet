@@ -6,7 +6,7 @@ import com.shop.entity.Seo.Type;
 /**
  * Service - SEO设置
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface SeoService extends BaseService<Seo, Long> {

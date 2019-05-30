@@ -5,7 +5,7 @@ import org.apache.shiro.authc.UsernamePasswordToken;
 /**
  * 登录令牌
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public class AuthenticationToken extends UsernamePasswordToken {

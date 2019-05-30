@@ -11,7 +11,7 @@ import com.shop.entity.Product.OrderType;
 /**
  * Service - 搜索
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface SearchService {

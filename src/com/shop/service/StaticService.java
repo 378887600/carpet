@@ -8,7 +8,7 @@ import com.shop.entity.Product;
 /**
  * Service - 静态化
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface StaticService {

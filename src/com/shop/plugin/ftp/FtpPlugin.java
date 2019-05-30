@@ -22,7 +22,7 @@ import org.springframework.stereotype.Component;
 /**
  * Plugin - FTP
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("ftpPlugin")

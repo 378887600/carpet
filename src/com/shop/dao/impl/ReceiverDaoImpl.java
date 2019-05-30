@@ -18,7 +18,7 @@ import org.springframework.util.Assert;
 /**
  * Dao - 收货地址
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("receiverDaoImpl")

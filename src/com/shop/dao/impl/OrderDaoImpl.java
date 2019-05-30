@@ -30,7 +30,7 @@ import org.springframework.stereotype.Repository;
 /**
  * Dao - 订单
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("orderDaoImpl")

@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * 模板
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public class Template implements Serializable {

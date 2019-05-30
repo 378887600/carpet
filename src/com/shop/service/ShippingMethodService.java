@@ -5,7 +5,7 @@ import com.shop.entity.ShippingMethod;
 /**
  * Service - 配送方式
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface ShippingMethodService extends BaseService<ShippingMethod, Long> {

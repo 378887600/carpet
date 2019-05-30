@@ -24,7 +24,7 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * Controller - 文件处理
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("adminFileController")

@@ -15,7 +15,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 /**
  * Controller - 本地文件存储
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("adminPluginFileController")

@@ -18,7 +18,7 @@ import org.springframework.stereotype.Repository;
 /**
  * Dao - 促销
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("promotionDaoImpl")

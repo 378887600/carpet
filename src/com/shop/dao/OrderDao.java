@@ -16,7 +16,7 @@ import com.shop.entity.Order.ShippingStatus;
 /**
  * Dao - 订单
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface OrderDao extends BaseDao<Order, Long> {

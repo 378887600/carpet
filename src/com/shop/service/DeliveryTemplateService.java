@@ -5,7 +5,7 @@ import com.shop.entity.DeliveryTemplate;
 /**
  * Service - 快递单模板
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface DeliveryTemplateService extends BaseService<DeliveryTemplate, Long> {

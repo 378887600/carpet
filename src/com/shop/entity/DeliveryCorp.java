@@ -17,7 +17,7 @@ import org.hibernate.validator.constraints.NotEmpty;
 /**
  * Entity - 物流公司
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Entity

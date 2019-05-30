@@ -26,7 +26,7 @@ import org.springframework.util.Assert;
 /**
  * Dao - 优惠码
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("couponCodeDaoImpl")

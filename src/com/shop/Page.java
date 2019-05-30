@@ -9,7 +9,7 @@ import com.shop.Order.Direction;
 /**
  * 分页
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public class Page<T> implements Serializable {

@@ -16,7 +16,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * Service - 文章分类
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("articleCategoryServiceImpl")

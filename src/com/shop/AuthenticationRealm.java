@@ -30,7 +30,7 @@ import org.apache.shiro.subject.PrincipalCollection;
 /**
  * 权限认证
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public class AuthenticationRealm extends AuthorizingRealm {

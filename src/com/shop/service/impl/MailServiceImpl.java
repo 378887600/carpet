@@ -32,7 +32,7 @@ import freemarker.template.TemplateException;
 /**
  * Service - 邮件
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("mailServiceImpl")

@@ -5,7 +5,7 @@ import com.shop.entity.Payment;
 /**
  * Dao - 收款单
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface PaymentDao extends BaseDao<Payment, Long> {

@@ -25,7 +25,7 @@ import org.springframework.util.Assert;
 /**
  * Dao - 货品
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("goodsDaoImpl")

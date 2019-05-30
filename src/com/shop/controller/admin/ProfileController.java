@@ -17,7 +17,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 /**
  * Controller - 个人资料
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("adminProfileController")

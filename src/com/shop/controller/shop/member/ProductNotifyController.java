@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 /**
  * Controller - 会员中心 - 到货通知
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("shopMemberProductNotifyController")

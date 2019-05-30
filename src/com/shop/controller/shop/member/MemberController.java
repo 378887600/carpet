@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 /**
  * Controller - 会员中心
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("shopMemberController")

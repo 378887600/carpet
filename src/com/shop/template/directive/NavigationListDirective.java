@@ -21,7 +21,7 @@ import freemarker.template.TemplateModel;
 /**
  * 模板指令 - 导航列表
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("navigationListDirective")

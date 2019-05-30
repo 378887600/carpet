@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 /**
  * Service - 购物车项
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("cartItemServiceImpl")

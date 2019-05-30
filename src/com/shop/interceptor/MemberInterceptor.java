@@ -19,7 +19,7 @@ import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 /**
  * Interceptor - 会员权限
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public class MemberInterceptor extends HandlerInterceptorAdapter {

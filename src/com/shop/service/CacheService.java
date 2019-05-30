@@ -3,7 +3,7 @@ package com.shop.service;
 /**
  * Service - 缓存
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface CacheService {

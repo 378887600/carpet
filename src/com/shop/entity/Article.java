@@ -52,7 +52,7 @@ import freemarker.template.TemplateException;
 /**
  * Entity - 文章
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Indexed

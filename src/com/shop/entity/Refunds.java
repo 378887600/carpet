@@ -18,7 +18,7 @@ import org.hibernate.validator.constraints.Length;
 /**
  * Entity - 退款单
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Entity

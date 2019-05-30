@@ -8,7 +8,7 @@ import com.shop.entity.Member;
 /**
  * Dao - 预存款
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface DepositDao extends BaseDao<Deposit, Long> {

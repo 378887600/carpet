@@ -46,7 +46,7 @@ import com.sun.mail.smtp.SMTPSenderFailedException;
 /**
  * Controller - 系统设置
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("adminstingController")

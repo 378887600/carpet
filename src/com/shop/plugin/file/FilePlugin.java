@@ -20,7 +20,7 @@ import org.springframework.web.context.ServletContextAware;
 /**
  * Plugin - 本地文件存储
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("filePlugin")

@@ -56,7 +56,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 /**
  * Controller - 商品
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("adminProductController")

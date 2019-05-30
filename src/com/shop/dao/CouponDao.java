@@ -7,7 +7,7 @@ import com.shop.entity.Coupon;
 /**
  * Dao - 优惠券
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface CouponDao extends BaseDao<Coupon, Long> {

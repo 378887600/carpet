@@ -8,7 +8,7 @@ import com.shop.entity.Message;
 /**
  * Service - 消息
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface MessageService extends BaseService<Message, Long> {

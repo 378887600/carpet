@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
 /**
  * Dao - 日志
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("logDaoImpl")

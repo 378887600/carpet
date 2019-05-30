@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 /**
  * Controller - 消费排行
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("adminPurchaseRankingController")

@@ -37,7 +37,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 /**
  * Controller - 支付
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("shopPaymentController")

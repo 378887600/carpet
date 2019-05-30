@@ -17,7 +17,7 @@ import org.springframework.stereotype.Service;
 /**
  * Service - 日志配置
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("logConfigServiceImpl")

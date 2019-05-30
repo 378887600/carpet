@@ -15,7 +15,7 @@ import org.hibernate.validator.constraints.Length;
 /**
  * Entity - 预存款
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Entity

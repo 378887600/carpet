@@ -35,7 +35,7 @@ import org.springframework.web.context.ServletContextAware;
 /**
  * Controller - 共用
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("adminCommonController")

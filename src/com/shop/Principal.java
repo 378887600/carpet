@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * 身份信息
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public class Principal implements Serializable {

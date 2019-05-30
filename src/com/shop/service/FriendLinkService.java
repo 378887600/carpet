@@ -10,7 +10,7 @@ import com.shop.entity.FriendLink.Type;
 /**
  * Service - 友情链接
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface FriendLinkService extends BaseService<FriendLink, Long> {

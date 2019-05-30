@@ -5,7 +5,7 @@ import com.shop.entity.Log;
 /**
  * Dao - 日志
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface LogDao extends BaseDao<Log, Long> {

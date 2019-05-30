@@ -14,7 +14,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * Service - 广告位
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("adPositionServiceImpl")

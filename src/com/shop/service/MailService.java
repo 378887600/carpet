@@ -8,7 +8,7 @@ import com.shop.entity.SafeKey;
 /**
  * Service - 邮件
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface MailService {

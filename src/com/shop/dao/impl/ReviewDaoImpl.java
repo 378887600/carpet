@@ -23,7 +23,7 @@ import org.springframework.stereotype.Repository;
 /**
  * Dao - 评论
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("reviewDaoImpl")

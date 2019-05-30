@@ -22,7 +22,7 @@ import org.hibernate.validator.constraints.Length;
 /**
  * Entity - 收款单
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Entity

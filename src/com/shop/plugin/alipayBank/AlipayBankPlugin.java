@@ -20,7 +20,7 @@ import org.springframework.stereotype.Component;
 /**
  * Plugin - 支付宝(纯网关)
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("alipayBankPlugin")

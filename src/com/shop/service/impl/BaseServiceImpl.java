@@ -27,7 +27,7 @@ import org.springframework.util.Assert;
 /**
  * Service - 基类
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Transactional

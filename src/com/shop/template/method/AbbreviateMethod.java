@@ -13,7 +13,7 @@ import freemarker.template.TemplateModelException;
 /**
  * 模板方法 - 字符串缩略
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("abbreviateMethod")

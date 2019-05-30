@@ -5,7 +5,7 @@ import com.shop.entity.Log;
 /**
  * Service - 日志
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface LogService extends BaseService<Log, Long> {

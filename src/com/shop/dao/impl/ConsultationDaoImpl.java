@@ -21,7 +21,7 @@ import org.springframework.stereotype.Repository;
 /**
  * Dao - 咨询
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("consultationDaoImpl")

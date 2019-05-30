@@ -16,7 +16,7 @@ import freemarker.template.TemplateModelException;
 /**
  * 模板方法 - 货币格式化
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("currencyMethod")

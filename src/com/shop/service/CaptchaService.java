@@ -7,7 +7,7 @@ import com.shop.Setting.CaptchaType;
 /**
  * Service - 验证码
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface CaptchaService {

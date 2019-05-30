@@ -16,7 +16,7 @@ import org.springframework.util.Assert;
 /**
  * Dao - 会员等级
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("memberRankDaoImpl")

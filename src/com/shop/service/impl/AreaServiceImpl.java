@@ -15,7 +15,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * Service - 地区
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("areaServiceImpl")

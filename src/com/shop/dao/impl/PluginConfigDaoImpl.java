@@ -11,7 +11,7 @@ import org.springframework.stereotype.Repository;
 /**
  * Dao - 插件配置
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("pluginConfigDaoImpl")

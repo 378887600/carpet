@@ -14,7 +14,7 @@ import com.shop.entity.Review.Type;
 /**
  * Service - 评论
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface ReviewService extends BaseService<Review, Long> {

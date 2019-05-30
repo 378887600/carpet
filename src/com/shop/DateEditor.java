@@ -10,7 +10,7 @@ import org.apache.commons.lang.time.DateUtils;
 /**
  * 日期类型转换
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public class DateEditor extends PropertyEditorSupport {

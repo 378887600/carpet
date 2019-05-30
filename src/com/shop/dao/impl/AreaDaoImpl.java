@@ -13,7 +13,7 @@ import org.springframework.stereotype.Repository;
 /**
  * Dao - 地区
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("areaDaoImpl")

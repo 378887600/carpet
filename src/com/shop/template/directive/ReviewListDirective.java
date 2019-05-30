@@ -28,7 +28,7 @@ import freemarker.template.TemplateModel;
 /**
  * 模板指令 - 评论
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("reviewListDirective")

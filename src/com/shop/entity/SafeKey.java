@@ -10,7 +10,7 @@ import javax.persistence.Transient;
 /**
  * Entity - 安全密钥
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Embeddable

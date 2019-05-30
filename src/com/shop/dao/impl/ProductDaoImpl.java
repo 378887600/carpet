@@ -56,7 +56,7 @@ import org.springframework.util.Assert;
 /**
  * Dao - 商品
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("productDaoImpl")

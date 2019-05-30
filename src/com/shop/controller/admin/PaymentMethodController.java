@@ -22,7 +22,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 /**
  * Controller - 支付方式
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("adminPaymentMethodController")

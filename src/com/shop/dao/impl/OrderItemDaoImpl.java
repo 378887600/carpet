@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 /**
  * Dao - 订单项
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("orderItemDaoImpl")

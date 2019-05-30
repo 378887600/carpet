@@ -5,7 +5,7 @@ import com.shop.entity.DeliveryCorp;
 /**
  * Service - 物流公司
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface DeliveryCorpService extends BaseService<DeliveryCorp, Long> {

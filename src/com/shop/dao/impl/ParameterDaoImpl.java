@@ -18,7 +18,7 @@ import org.springframework.stereotype.Repository;
 /**
  * Dao - 参数
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("parameterDaoImpl")

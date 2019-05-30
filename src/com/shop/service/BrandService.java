@@ -9,7 +9,7 @@ import com.shop.entity.Brand;
 /**
  * Service - 品牌
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface BrandService extends BaseService<Brand, Long> {

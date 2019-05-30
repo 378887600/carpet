@@ -5,7 +5,7 @@ import com.shop.entity.PluginConfig;
 /**
  * Service - 插件配置
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface PluginConfigService extends BaseService<PluginConfig, Long> {

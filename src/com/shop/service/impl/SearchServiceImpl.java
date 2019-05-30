@@ -39,7 +39,7 @@ import org.wltea.analyzer.lucene.IKAnalyzer;
 /**
  * Service - 搜索
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("searchServiceImpl")

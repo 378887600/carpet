@@ -16,8 +16,8 @@ if (applicationContext != null) {
 <meta http-equiv="expires" content="0" />
 <meta http-equiv="Pragma" content="no-cache" />
 <meta http-equiv="Cache-Control" content="no-cache" />
-<meta name="author" content="lihua" />
-<meta name="copyright" content="lihua" />
+<meta name="author" content="" />
+<meta name="copyright" content="" />
 <link href="<%=base%>/resources/admin/css/common.css" rel="stylesheet" type="text/css" />
 <link href="<%=base%>/resources/admin/css/login.css" rel="stylesheet" type="text/css" />
 </head>

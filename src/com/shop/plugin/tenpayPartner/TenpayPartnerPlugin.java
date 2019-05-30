@@ -24,7 +24,7 @@ import org.springframework.stereotype.Component;
 /**
  * Plugin - 财付通(担保交易)
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("tenpayPartnerPlugin")

@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 /**
  * Controller - 收款单
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("adminPaymentController")

@@ -7,7 +7,7 @@ import com.shop.entity.Coupon;
 /**
  * Service - 优惠券
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface CouponService extends BaseService<Coupon, Long> {

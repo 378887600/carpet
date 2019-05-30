@@ -19,7 +19,7 @@ import freemarker.template.TemplateModel;
 /**
  * 模板指令 - 当前会员
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("currentMemberDirective")

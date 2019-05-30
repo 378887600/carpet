@@ -25,7 +25,7 @@ import org.springframework.web.context.ServletContextAware;
 /**
  * Service - 模板
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("templateServiceImpl")

@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 /**
  * Controller - 索引
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("adminIndexController")

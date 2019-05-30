@@ -8,7 +8,7 @@ import com.shop.entity.Navigation.Position;
 /**
  * Dao - 导航
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface NavigationDao extends BaseDao<Navigation, Long> {

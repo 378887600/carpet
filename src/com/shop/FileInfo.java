@@ -5,7 +5,7 @@ import java.util.Date;
 /**
  * 文件信息
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public class FileInfo {

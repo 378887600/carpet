@@ -23,7 +23,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * Service - 咨询
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("consultationServiceImpl")

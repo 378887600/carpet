@@ -66,7 +66,7 @@ import freemarker.template.TemplateException;
 /**
  * Entity - 商品
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Indexed

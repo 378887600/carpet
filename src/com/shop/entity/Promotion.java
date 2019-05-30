@@ -39,7 +39,7 @@ import freemarker.template.TemplateException;
 /**
  * Entity - 促销
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Entity

@@ -8,7 +8,7 @@ import com.shop.entity.Receiver;
 /**
  * Dao - 收货地址
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface ReceiverDao extends BaseDao<Receiver, Long> {

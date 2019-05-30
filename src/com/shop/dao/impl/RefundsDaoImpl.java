@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 /**
  * Dao - 退款单
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("refundsDaoImpl")

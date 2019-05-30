@@ -5,7 +5,7 @@ import com.shop.entity.CartItem;
 /**
  * Dao - 购物车项
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface CartItemDao extends BaseDao<CartItem, Long> {

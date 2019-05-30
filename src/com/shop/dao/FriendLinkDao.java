@@ -8,7 +8,7 @@ import com.shop.entity.FriendLink.Type;
 /**
  * Dao - 友情链接
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface FriendLinkDao extends BaseDao<FriendLink, Long> {

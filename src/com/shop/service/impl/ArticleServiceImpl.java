@@ -29,7 +29,7 @@ import org.springframework.util.Assert;
 /**
  * Service - 文章
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("articleServiceImpl")

@@ -68,7 +68,7 @@ import org.springframework.util.Assert;
 /**
  * Service - 订单
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("orderServiceImpl")

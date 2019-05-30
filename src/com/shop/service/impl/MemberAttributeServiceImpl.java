@@ -16,7 +16,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * Service - 会员注册项
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("memberAttributeServiceImpl")

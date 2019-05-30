@@ -36,7 +36,7 @@ import org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer;
 /**
  * Service - 静态化
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("staticServiceImpl")

@@ -12,7 +12,7 @@ import org.apache.commons.lang.builder.HashCodeBuilder;
 /**
  * 分页信息
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public class Pageable implements Serializable {

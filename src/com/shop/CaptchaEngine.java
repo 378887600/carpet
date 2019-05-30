@@ -21,7 +21,7 @@ import com.octo.captcha.image.gimpy.GimpyFactory;
 /**
  * 验证码图片生成
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public class CaptchaEngine extends ListImageCaptchaEngine {

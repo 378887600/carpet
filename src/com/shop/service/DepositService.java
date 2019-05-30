@@ -8,7 +8,7 @@ import com.shop.entity.Member;
 /**
  * Service - 预存款
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface DepositService extends BaseService<Deposit, Long> {

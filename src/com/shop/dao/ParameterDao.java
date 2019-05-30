@@ -9,7 +9,7 @@ import com.shop.entity.ParameterGroup;
 /**
  * Dao - 参数
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface ParameterDao extends BaseDao<Parameter, Long> {

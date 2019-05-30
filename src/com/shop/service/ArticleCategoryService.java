@@ -7,7 +7,7 @@ import com.shop.entity.ArticleCategory;
 /**
  * Service - 文章分类
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface ArticleCategoryService extends BaseService<ArticleCategory, Long> {

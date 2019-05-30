@@ -11,7 +11,7 @@ import com.shop.entity.Member;
 /**
  * Service - 优惠码
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface CouponCodeService extends BaseService<CouponCode, Long> {

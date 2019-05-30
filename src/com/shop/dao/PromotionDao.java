@@ -9,7 +9,7 @@ import com.shop.entity.Promotion;
 /**
  * Dao - 促销
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface PromotionDao extends BaseDao<Promotion, Long> {

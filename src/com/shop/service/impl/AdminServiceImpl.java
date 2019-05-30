@@ -20,7 +20,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * Service - 管理员
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("adminServiceImpl")

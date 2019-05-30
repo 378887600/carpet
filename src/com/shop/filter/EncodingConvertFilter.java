@@ -14,7 +14,7 @@ import org.springframework.web.filter.OncePerRequestFilter;
 /**
  * Filter - 编码格式转换
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public class EncodingConvertFilter extends OncePerRequestFilter {

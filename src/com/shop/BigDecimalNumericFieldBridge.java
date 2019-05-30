@@ -9,7 +9,7 @@ import org.hibernate.search.bridge.builtin.NumericFieldBridge;
 /**
  * BigDecimal类型转换
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public class BigDecimalNumericFieldBridge extends NumericFieldBridge {

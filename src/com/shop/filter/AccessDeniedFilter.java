@@ -15,7 +15,7 @@ import org.apache.commons.codec.binary.Base64;
 /**
  * Filter - 限制访问
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public class AccessDeniedFilter implements Filter {

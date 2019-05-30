@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 /**
  * Controller - 存储插件
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("adminStoragePluginController")

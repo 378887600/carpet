@@ -13,7 +13,7 @@ import com.shop.entity.Product;
 /**
  * Service - 咨询
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface ConsultationService extends BaseService<Consultation, Long> {

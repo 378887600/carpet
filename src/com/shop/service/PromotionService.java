@@ -9,7 +9,7 @@ import com.shop.entity.Promotion;
 /**
  * Service - 促销
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface PromotionService extends BaseService<Promotion, Long> {

@@ -6,7 +6,7 @@ import com.shop.entity.Member;
 /**
  * Service - 购物车
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface CartService extends BaseService<Cart, Long> {

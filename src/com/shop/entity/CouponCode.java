@@ -15,7 +15,7 @@ import javax.persistence.Table;
 /**
  * Entity - 优惠码
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Entity

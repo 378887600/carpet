@@ -5,7 +5,7 @@ import com.shop.entity.DeliveryCenter;
 /**
  * Dao - 发货点
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface DeliveryCenterDao extends BaseDao<DeliveryCenter, Long> {

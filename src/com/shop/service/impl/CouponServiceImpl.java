@@ -14,7 +14,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * Service - 优惠券
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("couponServiceImpl")

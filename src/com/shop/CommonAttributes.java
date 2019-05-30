@@ -3,7 +3,7 @@ package com.shop;
 /**
  * 公共参数
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public final class CommonAttributes {

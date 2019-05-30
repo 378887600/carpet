@@ -5,7 +5,7 @@ import com.shop.entity.OrderLog;
 /**
  * Dao - 订单日志
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface OrderLogDao extends BaseDao<OrderLog, Long> {

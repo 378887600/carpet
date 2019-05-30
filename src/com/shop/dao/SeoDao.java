@@ -6,7 +6,7 @@ import com.shop.entity.Seo.Type;
 /**
  * Dao - SEO设置
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface SeoDao extends BaseDao<Seo, Long> {

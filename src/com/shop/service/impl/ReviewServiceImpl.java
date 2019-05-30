@@ -25,7 +25,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * Service - 评论
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("reviewServiceImpl")

@@ -14,7 +14,7 @@ import com.shop.entity.Tag;
 /**
  * Dao - 文章
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface ArticleDao extends BaseDao<Article, Long> {

@@ -22,7 +22,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 /**
  * Service - 发货单
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("shippingServiceImpl")

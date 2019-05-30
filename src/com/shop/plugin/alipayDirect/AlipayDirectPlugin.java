@@ -20,7 +20,7 @@ import org.springframework.stereotype.Component;
 /**
  * Plugin - 支付宝(即时交易)
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("alipayDirectPlugin")

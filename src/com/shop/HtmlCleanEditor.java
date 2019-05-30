@@ -8,7 +8,7 @@ import org.jsoup.safety.Whitelist;
 /**
  * HTML清理
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public class HtmlCleanEditor extends PropertyEditorSupport {

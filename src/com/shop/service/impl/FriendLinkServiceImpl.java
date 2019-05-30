@@ -19,7 +19,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * Service - 友情链接
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("friendLinkServiceImpl")

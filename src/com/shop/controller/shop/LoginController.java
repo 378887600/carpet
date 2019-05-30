@@ -40,7 +40,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 /**
  * Controller - 会员登录
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("shopLoginController")

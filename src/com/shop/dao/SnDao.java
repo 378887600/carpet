@@ -5,7 +5,7 @@ import com.shop.entity.Sn.Type;
 /**
  * Dao - 序列号
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface SnDao {

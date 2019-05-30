@@ -13,7 +13,7 @@ import org.springframework.stereotype.Repository;
 /**
  * Dao - 购物车
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("cartDaoImpl")

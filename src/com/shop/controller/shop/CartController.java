@@ -31,7 +31,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 /**
  * Controller - 购物车
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("shopCartController")

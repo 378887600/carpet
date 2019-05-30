@@ -9,7 +9,7 @@ import com.shop.entity.ProductNotify;
 /**
  * Service - 到货通知
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface ProductNotifyService extends BaseService<ProductNotify, Long> {

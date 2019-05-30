@@ -7,7 +7,7 @@ import com.shop.entity.ProductCategory;
 /**
  * Dao - 商品分类
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface ProductCategoryDao extends BaseDao<ProductCategory, Long> {

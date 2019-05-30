@@ -21,7 +21,7 @@ import com.shop.entity.Tag;
 /**
  * Service - 商品
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface ProductService extends BaseService<Product, Long> {

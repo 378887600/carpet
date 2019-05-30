@@ -7,7 +7,7 @@ import com.shop.entity.Area;
 /**
  * Service - 地区
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface AreaService extends BaseService<Area, Long> {

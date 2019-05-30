@@ -21,7 +21,7 @@ import freemarker.template.TemplateModel;
 /**
  * 模板指令 - 下级商品分类列表
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("productCategoryChildrenListDirective")

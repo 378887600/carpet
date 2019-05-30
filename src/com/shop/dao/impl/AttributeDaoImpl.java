@@ -14,7 +14,7 @@ import org.springframework.util.Assert;
 /**
  * Dao - 属性
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Repository("attributeDaoImpl")

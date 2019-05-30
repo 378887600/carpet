@@ -30,7 +30,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 /**
  * Controller - 咨询
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("shopConsultationController")

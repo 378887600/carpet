@@ -15,7 +15,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * Service - 消息
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("messageServiceImpl")

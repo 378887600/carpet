@@ -17,7 +17,7 @@ import org.springframework.stereotype.Component;
 /**
  * Plugin - 存储
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public abstract class StoragePlugin implements Comparable<StoragePlugin> {

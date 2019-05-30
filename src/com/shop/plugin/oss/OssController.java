@@ -21,7 +21,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 /**
  * Controller - 阿里云存储
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("adminPluginOssController")

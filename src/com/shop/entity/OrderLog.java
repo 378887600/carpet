@@ -11,7 +11,7 @@ import javax.persistence.Table;
 /**
  * Entity - 订单日志
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Entity

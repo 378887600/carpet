@@ -5,7 +5,7 @@ import com.shop.entity.Returns;
 /**
  * Service - 退货单
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 public interface ReturnsService extends BaseService<Returns, Long> {

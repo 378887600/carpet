@@ -23,7 +23,7 @@ import com.aliyun.openservices.oss.model.ObjectMetadata;
 /**
  * Plugin - 阿里云存储
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("ossPlugin")

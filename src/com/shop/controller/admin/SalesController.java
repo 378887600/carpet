@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 /**
  * Controller - 销售统计
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Controller("adminSalesController")

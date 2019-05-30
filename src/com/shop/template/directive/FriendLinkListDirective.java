@@ -21,7 +21,7 @@ import freemarker.template.TemplateModel;
 /**
  * 模板指令 - 友情链接列表
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Component("friendLinkListDirective")

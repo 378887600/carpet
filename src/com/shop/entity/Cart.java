@@ -29,7 +29,7 @@ import org.apache.commons.lang.time.DateUtils;
 /**
  * Entity - 购物车
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Entity

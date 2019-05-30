@@ -19,7 +19,7 @@ import org.springframework.stereotype.Service;
 /**
  * Service - 插件
  * 
- * @author lihua
+ * @author 
  * @version 1.0
  */
 @Service("pluginServiceImpl")
